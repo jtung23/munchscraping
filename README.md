@@ -1,17 +1,18 @@
 # Munch Scraping Scripts
 
 ## How To Use:
+[Instructions for installing Git]("https://git-scm.com/book/en/v2/Getting-Started-Installing-Git")
 
+[Instructions for installing Python, Pip, Virtualenv]("http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming/")
 ### Mac
-1. [Instructions for installing Python, Pip, Virtualenv]("http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming/")
 
-2. In the directory of the folder, run `source env/bin/activate`. You should see a `(env)` to the left of your cmd line
+1. In the directory of the folder, run `source env/bin/activate`. You should see a `(env)` to the left of your cmd line
 
-3. Run `pip install -r requirements.txt`
+2. Run `pip install -r requirements.txt`
 
-4. `python selscrape.py`
+3. `python selscrape.py`
 
-5. When the cmd line reads `DONE`, open spreadsheet.csv in a program to check
+4. When the cmd line reads `DONE`, open spreadsheet.csv in a program to check
 
 
 ## Modifying the file
