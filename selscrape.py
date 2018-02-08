@@ -89,3 +89,5 @@ with open('spreadsheet.csv','w') as outfile:
     writer.writeheader()
     # writes all data to excel sheet
     writer.writerows(all_data)
+
+print('DONE')
