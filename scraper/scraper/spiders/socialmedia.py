@@ -27,5 +27,4 @@ class socialMediaSpider(scrapy.Spider):
 
 	def parse_info(self, response):
 		text = response.css('body').extract_first()
-		from IPython import embed; embed()
 		print(text)
