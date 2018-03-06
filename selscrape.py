@@ -18,6 +18,7 @@ pp = pprint.PrettyPrinter(indent=4)
 driver = webdriver.Firefox()
 wait = UI.WebDriverWait(driver, 5000)
 
+# REPLACE THIS WITH CRAIGSLIST RESULT PAGE
 site = "https://sfbay.craigslist.org/search/sfc/mar?query=social+media"
 # opens firefox and goes to site
 driver.get(site)

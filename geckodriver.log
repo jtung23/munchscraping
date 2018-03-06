@@ -604,3 +604,53 @@ JavaScript error: https://www.craigslist.org/js/leaflet-concat.min.js?v=aca55d2d
 [Parent 16530, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Parent 16530, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Parent 16530, Gecko_IOThread] WARNING: pipe error (233): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518123992680	geckodriver	INFO	geckodriver 0.19.1
+1518123992684	geckodriver	INFO	Listening on 127.0.0.1:34355
+1518123993778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5jSO0LXFIWWs"
+1518123994323	Marionette	INFO	Enabled via --marionette
+1518123995613	Marionette	INFO	Listening on port 38639
+1518123995688	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (205): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (203): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (150): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (171): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (193): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23282, Gecko_IOThread] WARNING: pipe error (240): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1518979511126	geckodriver	INFO	geckodriver 0.19.1
+1518979511132	geckodriver	INFO	Listening on 127.0.0.1:43049
+1518979512228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VwZxw9Cp1Dhu"
+1518979513047	Marionette	INFO	Enabled via --marionette
+1518979514524	Marionette	INFO	Listening on port 38023
+1518979514556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/recaptcha/api2/v1518566665321/recaptcha__en.js, line 370: Error: Missing required parameters: sitekey
+1519183236858	geckodriver	INFO	geckodriver 0.19.1
+1519183236865	geckodriver	INFO	Listening on 127.0.0.1:51815
+1519183237976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jXyqwbCTvLNb"
+1519183238820	Marionette	INFO	Enabled via --marionette
+1519183240336	Marionette	INFO	Listening on port 44939
+1519183240394	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17281, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+Sandbox: Unexpected EOF, op 9 flags 00 path /dev/shm/org.chromium.MUL2lk
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0001,name=PLayerTransaction::Msg_InitReadLocks) Channel error: cannot send/recv
+
+[Child 17069, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
